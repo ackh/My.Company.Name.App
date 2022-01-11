@@ -1,0 +1,8 @@
+namespace My.Company.Name.Controls
+{
+  runtimeclass CustomControl : Microsoft.UI.Xaml.Controls.UserControl
+  {
+    CustomControl();
+    Single ZoomFactor;
+  }
+}

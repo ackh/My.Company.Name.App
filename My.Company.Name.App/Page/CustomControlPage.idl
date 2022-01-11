@@ -1,0 +1,8 @@
+namespace My.Company.Name.App
+{
+  [default_interface]
+  runtimeclass CustomControlPage : Microsoft.UI.Xaml.Controls.Page
+  {
+    CustomControlPage();
+  }
+}

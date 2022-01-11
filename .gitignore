@@ -1,0 +1,21 @@
+﻿################################################################################
+# Prevents specific files and folders from being added to Git.
+################################################################################
+
+/.vs
+/bin
+/My.Company.Name.App/Generated Files
+/My.Company.Name.App/obj
+/My.Company.Name.Controls/Generated Files
+/My.Company.Name.Controls/obj
+/packages
+
+
+################################################################################
+# Prevents files with the below listed file extensions from being added to Git.
+################################################################################
+
+*.db
+*.opendb
+*.user
+*.suo
